@@ -30,7 +30,3 @@ On May 10, 1940, Germany used these tactics to trap the Allied forces in Dunkirk
 
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'RiseOfPrussia'" %}
 {% include media.html pages=media %}
-
-# Linking to a PDF File
-
-[Download PDF file]({{ site.baseurl }}/media_files/pdfs/newspaper1942.pdf)
