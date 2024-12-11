@@ -16,8 +16,11 @@ number: 4
 # Supplementary Websites
 
 [(https://www.britannica.com/place/Germany/World-War-II)]
+
 [(https://www.nationalww2museum.org/war/articles/how-did-adolf-hitler-happen)]
+
 [(https://www.history.com/topics/world-war-ii/world-war-ii-history)]
+
 [(https://encyclopedia.ushmm.org/content/en/article/world-war-ii-in-europe-1)]
 
 # Supplementary Media Files
