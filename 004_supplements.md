@@ -20,5 +20,5 @@ https://www.history.com/topics/world-war-ii/world-war-ii-history
 https://encyclopedia.ushmm.org/content/en/article/world-war-ii-in-europe-1
 
 # Supplementary Media Files
-
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'German Propaganda'" %} {% include media.html pages=media %}
 Insert videos or images here.
