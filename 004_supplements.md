@@ -6,7 +6,7 @@ number: 4
 
 # Supplements
 
-Do you have supplementary materials (such as media files) or links for further information for the reader? (minimum 3 additional media files or links)
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'burned'" %} {% include media.html pages=media %}
 
 # Timeline
 
