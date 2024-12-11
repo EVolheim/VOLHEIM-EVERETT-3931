@@ -7,6 +7,7 @@ number: 4
 # Supplements
 
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'burned'" %} {% include media.html pages=media %}
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'looking'" %} {% include media.html pages=media %}
 
 # Timeline
 
