@@ -14,10 +14,10 @@ Do you have supplementary materials (such as media files) or links for further i
 
 # Supplementary Websites
 
-https://www.britannica.com/place/Germany/World-War-II
-https://www.nationalww2museum.org/war/articles/how-did-adolf-hitler-happen
-https://www.history.com/topics/world-war-ii/world-war-ii-history
-https://encyclopedia.ushmm.org/content/en/article/world-war-ii-in-europe-1
+[(https://www.britannica.com/place/Germany/World-War-II)]
+[(https://www.nationalww2museum.org/war/articles/how-did-adolf-hitler-happen)]
+[(https://www.history.com/topics/world-war-ii/world-war-ii-history)]
+[(https://encyclopedia.ushmm.org/content/en/article/world-war-ii-in-europe-1)]
 
 # Supplementary Media Files
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'German Propaganda'" %} {% include media.html pages=media %}
