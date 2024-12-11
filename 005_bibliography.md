@@ -22,7 +22,7 @@ King, Martin. The Battle of the Bulge: The Allies' Greatest Conflict on the West
 
 Jordan, Thomas M. “Battle Command: Bradley and Ridgway in the Battle of the Bulge.” Military Review 80, no. 2 (2000): 95-.
 
-Toll, Seymour I. "Remembering the Battle of the Bulge." Sewanee Review 122, no. 2 (2014): 270-282. [(https://dx.doi.org/10.1353/sew.2014.0058.)]
+Toll, Seymour I. "Remembering the Battle of the Bulge." Sewanee Review 122, no. 2 (2014): 270-282. ([https://dx.doi.org/10.1353/sew.2014.0058.])
 
 “The German ‘Lightning War’ Strategy of the Second World War,” Imperial War Museums, accessed November 15, 2024, [(https://www.iwm.org.uk/history/the-german-lightning-war-strategy-of-the-second-world-war.)]
 
